@@ -5,6 +5,11 @@ This project is all about turning a SONOFF BasicR2 smart switch into a fully cus
 
 ![Project Cover](https://raw.githubusercontent.com/AhmedHafezBME/sonoff-basic-R2/main/SONOF%20Board.jpeg)
 
+ **Features**:
+  - MQTT-based control for remote operation.
+  - Web interface for Wi-Fi configuration.
+  - Physical button for manual control.
+
 
 
 ## Project Structure
