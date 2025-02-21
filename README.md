@@ -41,7 +41,7 @@ sonoff-project/
 
 > **⚠️ Important:** Never connect 220V AC power to the SONOFF BasicR2 while connected to your PC via USB!
 
-![Wiring Diagram] ( images/Wiring With USB To TTL driver.jpeg )
+![Wiring Diagram] ( https://github.com/AhmedHafezBME/sonoff-basic-R2/blob/94e88469fa22165eb4d1067a4abcf6d71540a411/Wiring%20With%20USB%20To%20TTL%20driver.jpeg)
 
 
 ## Configuring MQTT
