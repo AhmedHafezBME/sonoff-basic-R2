@@ -2,6 +2,7 @@
 
 ## Overview
 This project is all about turning a SONOFF BasicR2 smart switch into a fully customizable IoT device. By flashing custom firmware onto its ESP8266 microcontroller, you can control appliances remotely using MQTT. Whether you're a beginner or an advanced user, this guide will walk you through the entire setup, from wiring to troubleshooting.
+
 ![Project Cover](https://raw.githubusercontent.com/AhmedHafezBME/sonoff-basic-R2/main/SONOF%20Board.jpeg)
 
 
