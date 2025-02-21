@@ -40,6 +40,7 @@ sonoff-project/
 | 3.3V                | 3.3V          |
 
 > **⚠️ Important:** Never connect 220V AC power to the SONOFF BasicR2 while connected to your PC via USB!
+Wiring With USB To TTL driver.jpeg 
 
 ## Configuring MQTT
 - **Default MQTT broker:** `mqtt://your-mqtt-broker.com:1883`
